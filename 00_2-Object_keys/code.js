@@ -12,5 +12,8 @@ numsObjKeys.map(function(key) {
 });
 
 numsObjKeys.map(function(key) {
-  console.log(numsObj[key]); // 2 4 6
+  console.log(numsObj[key]);
+  // 2
+  // 4
+  // 6
 });
